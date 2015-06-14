@@ -5,7 +5,7 @@ Join the hallowed ranks of Jina Bolton, Sacha Greif, John Allsopp, Thomas Goriss
 
 All you need to do is submit a talk proposal, following these steps:
 
-1. Clone this repository;
+1. Fork this repository;
 2. Copy+paste the contents of `call-for-proposal-template.md` then fill in your topic proposal and background info;
 3. Save the new file with the `title-of-your-talk.md` under the appropriate folder;
 4. Submit your proposal by creating a pull request.
@@ -33,7 +33,8 @@ Talk length is 45 minutes, plus 5 minutes setup time. Q&A will be done in 2 pane
 
 The speaker lineup probably won't be complete when tickets go on sale, so in case your proposal won't be selected but you still want to attend, just let us know and we'll hold a ticket for you.
 
-## 
+
+---
 
 
 FFC6 is organized by the [Philippine Web Designers Organization](http://pwdo.org). 
