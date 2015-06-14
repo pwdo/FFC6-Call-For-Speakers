@@ -1,7 +1,7 @@
-# FFC6 Call for Speakers: Submit your Proposal
+# FFC6 Call for Speakers: <br> Submit your Proposal
 #### &lt;form&gt; function() & .class – Web Design Conference in Asia <br> 14 November 2015 in Manila, Philippines
 
-Join the hallowed ranks of Jina Bolton, Sacha Greif, John Allsopp, Thomas Gorissen, Andrei Gonzales, Rico Sta. Cruz, and other industry greats by applying as speaker to this year's **Form Function & Class 6**!
+Join the hallowed ranks of Jina Bolton, Sacha Greif, John Allsopp, Thomas Gorissen, Andrei Gonzales, Rico Sta. Cruz, and other industry greats by applying as speaker to this year's **Form&nbsp;Function & Class 6**!
 
 All you need to do is submit a talk proposal, following these steps:
 
@@ -29,13 +29,14 @@ Talk length is 45 minutes, plus 5 minutes setup time. Q&A will be done in separa
 - You can pick your intro music before the talk (if it matches our *villainous* theme, even better).
 - If you purchased a ticket this year, we'll refund it.
 - You'll get lifetime access to succeeding FFC conferences. 
-- We're happy to discuss any additional concerns. ♥
+- We're happy to discuss any additional concerns. 💖
 
 The speaker lineup probably won't be complete when tickets go on sale, so in case your proposal won't be selected but you still want to attend, just let us know and we'll do our best to hold a ticket for you.
 
 ## 
 
 
-FFC6 is organized by the [Philippine Web Designers Organization](http://pwdo.org). Want to volunteer / partner / sponsor? Email [info@pwdo.org](mailto:info@pwdo.org) 📬
+FFC6 is organized by the [Philippine Web Designers Organization](http://pwdo.org). 
+Want to volunteer / partner / sponsor? Email [info@pwdo.org](mailto:info@pwdo.org) 📬
 
 <img src="http://pwdo.org/images/pwdo.png" alt="PWDO logo">
