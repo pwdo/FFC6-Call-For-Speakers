@@ -2,10 +2,9 @@
 
 - Any sentence/paragraph below that's in italic is where you can put your own relevant content in. DO NOT ITALICIZE YOUR ANSWERS!
 - Sentences not in italic are not supposed to be edited. Edit them only if you think it's needed. Make your idea clear.
-- There are no limit in the number of words
-- Save your proposal as “Your-topic-name.md” e.g. “how-to-make-the-worldwide-web-a-better-place.md” DO NOT EDIT THIS TEMPLATE FILE!
-- Save your proposal into the most accurate classified folder. DO NOT CREATE YOUR OWN FOLDER.
-- Remove anything before line 11 before submitting your proposal.
+- There are no limit in the number of words.
+- Select a label that best describes the category of your talk.
+- Remove anything before line 10 before submitting your proposal.
 
 
 *How to make the Worldwide Web a better place?*
