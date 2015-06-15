@@ -5,12 +5,12 @@ Join the hallowed ranks of Jina Bolton, Sacha Greif, John Allsopp, Thomas Goriss
 
 All you need to do is submit a talk proposal, following these steps:
 
-1. Fork this repository;
-2. Copy+paste the contents of `call-for-proposal-template.md` then fill in your topic proposal and background info;
-3. Save the new file with the `title-of-your-talk.md` under the appropriate folder;
-4. Submit your proposal by creating a pull request.
+1. [Create a new issue](https://github.com/pwdo/FFC6-Call-For-Speakers/issues/new)
+2. Using the `call-for-proposal-template.md`, fill in your topic proposal and background info;
+3. On the right side of the form, select a **Label** that best describes the category of your talk;
+4. Hit Submit!
 
-**What if I want to nominate a speaker?** We recommend that you get in touch with the potential speaker to submit the request. They'll be even more psyched to submit with encouragement from you 😉
+**What if I want to nominate a speaker?** For now we recommend that you get in touch with the potential speaker to submit the request. They'll be even more psyched to submit with encouragement from you 😉
 
 
 
