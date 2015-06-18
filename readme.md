@@ -6,9 +6,10 @@ Join the hallowed ranks of Jina Bolton, Sacha Greif, John Allsopp, Thomas Goriss
 All you need to do is submit a talk proposal, following these steps:
 
 1. [Create a new issue](https://github.com/pwdo/FFC6-Call-For-Speakers/issues/new)
-2. Using the `call-for-proposal-template.md`, fill in your topic proposal and background info;
-3. On the right side of the form, select a **Label** that best describes the category of your talk;
-4. Hit Submit!
+2. Fill in the title with your talk’s title;
+3. Using the [`call-for-proposal-template.md`](https://raw.githubusercontent.com/pwdo/FFC6-Call-For-Speakers/master/call-for-proposal-template.md), fill in your topic proposal and background info;
+4. On the right side of the form, select a **Label** that best describes the category of your talk;
+5. Hit Submit!
 
 **What if I want to nominate a speaker?** For now we recommend that you get in touch with the potential speaker to submit the request. They'll be even more psyched to submit with encouragement from you 😉
 
@@ -37,7 +38,7 @@ The speaker lineup probably won't be complete when tickets go on sale, so in cas
 ---
 
 
-FFC6 is organized by the [Philippine Web Designers Organization](http://pwdo.org). 
+[FFC6](http://pwdo.org/ffc) is organized by the [Philippine Web Designers Organization](http://pwdo.org). 
 Want to volunteer / partner / sponsor? Email [info@pwdo.org](mailto:info@pwdo.org) 📬
 
 <img src="http://pwdo.org/images/pwdo.png" alt="PWDO logo">
