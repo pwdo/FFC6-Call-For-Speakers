@@ -38,7 +38,7 @@ The speaker lineup probably won't be complete when tickets go on sale, so in cas
 ---
 
 
-[FFC6](http://pwdo.org/ffc) is organized by the [Philippine Web Designers Organization](http://pwdo.org). 
+[FFC6](http://formfunctionclass.com/) is organized by the [Philippine Web Designers Organization](http://pwdo.org). 
 Want to volunteer / partner / sponsor? Email [info@pwdo.org](mailto:info@pwdo.org) 📬
 
 <img src="http://pwdo.org/images/pwdo.png" alt="PWDO logo">
