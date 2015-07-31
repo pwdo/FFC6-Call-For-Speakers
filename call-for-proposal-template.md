@@ -1,14 +1,14 @@
 # Before you start to make your own proposal, some reminders:
 
+- Make sure you have read the [README](https://github.com/pwdo/FFC6-Call-For-Speakers#readme).
 - Any sentence/paragraph below that's in italic is where you can put your own relevant content in. DO NOT ITALICIZE YOUR ANSWERS!
 - Sentences not in italic are not supposed to be edited. Edit them only if you think it's needed. Make your idea clear.
 - There are no limit in the number of words.
-- Select a label that best describes the category of your talk.
 - Please submit your issue/proposal in [Markdown format](https://raw.githubusercontent.com/pwdo/FFC6-Call-For-Speakers/master/call-for-proposal-template.md).
-- Remove this line and anything before this line before submitting your proposal.
+- Remove this line and anything above this line before submitting your proposal.
 
 
-*How to make the Worldwide Web a better place?*
+*How to make the World Wide Web a better place*
 =============================================================
 
 ## About myself
