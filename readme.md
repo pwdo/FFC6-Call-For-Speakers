@@ -1,3 +1,7 @@
+# Call for speakers now closed. 
+You can still submit and we will consider it for next year! (Nov. 12, 2016)
+
+
 # FFC6 Call for Speakers: <br> Submit your Proposal
 #### &lt;form&gt; function() & .class – Web Design Conference in Asia <br> 14 November 2015 in Manila, Philippines
 
